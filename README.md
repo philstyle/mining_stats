@@ -5,37 +5,38 @@
 -----------------------------------------------------------------------------------------------------
 COIN	HOST		HR1		HR2		AUX1	AUX2
 --------------------------------------------------------------------
-ETH	air2		112.2 MH/s	128.1 MH/s	99	0
-ETH	airbuntu	119.6 MH/s	129.8 MH/s	107	0
-ETH	monolith	93.3 MH/s	97.8 MH/s	82	0
-DIG	1080		72.1 MH/s
-DIG	1080ti		212.5 MH/s
+ETH	air2		94.4 MH/s	128.1 MH/s	83	0
+ETH	airbuntu	132.2 MH/s	129.9 MH/s	119	0
+ETH	monolith	95.1 MH/s	97.8 MH/s	83	0
+MUS	RX480		24.44 MH/s	23.80 MH/s	false
+DIG	1080		95.2 MH/s
+DIG	1080ti		240.6 MH/s
 --------------------------------------------------------------------
-			TOTAL (-DIG)   355.7 MH/s
+			TOTAL (-DIG)   379.60 MH/s
 -----------------------------------------------------------------------------------------------------
 ------------------------------  3333 STATS  ---------------------------------------------------------
 ------------------------------------------------------------------------------------------
 HOST		MINING		MH/s	INCORRECT	RUNTIME	S/M	S/M/MH/s	SHARES
 ------------------------------------------------------------------------------------------
-AIRBUNTU	ethermine	129.946	none		10:45	1.9720	.015175		1272(314+290+348+334)
-AIRWIND2	ethermine	128.174	none		470:50	1.8963	.014794		53573(13615+13836+13259+13432)
-BATHROOM	nomnom	26.760	GPU0_1		348:48	.7854	.029349		16438
-MONOLITH	ethermine	97.823	none		16:00	1.4510	.014832		1393(319+251+308+293+240)
+AIRBUNTU	ethermine	129.884	none		11:05	1.9759	.015212		1314(324+306+356+342)
+AIRWIND2	ethermine	128.180	none		471:10	1.8961	.014792		53603(13623+13844+13268+13437)
+BATHROOM	nomnom	26.808	GPU0_1		349:08	.7853	.029293		16452
+MONOLITH	ethermine	98.018	none		16:20	1.4510	.014803		1422(329+255+312+295+250)
 -----------------------------------------------------------------------------------------------------
 ----------------------------  COINMARKETCAP  --------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
 #   Name                  Price     Circulating Supply     Volume (24h)         % Change (24h) 
-1   Bitcoin          $67,755,499,672 $4084.16  16,589,825_BTC       $1,293,080,000 3.36%          
-2   Ethereum         $27,931,901,643 $294.51   94,842,590_ETH       $371,417,000   0.98%          
-3   Bitcoin_Cash     $7,533,974,405  $453.26   16,621,750_BCH       $155,312,000   0.22%          
-7   Ethereum_Classic $1,138,691,781  $11.87    95,914,873_ETC       $105,430,000   6.26%          
-9   Zcash            $641,039,259    $281.86   2,274,294_ZEC        $106,009,000   22.13%         
-16  DigiByte         $131,893,507    $0.015087 8,742,253,657_DGB    $3,443,950     5.34%          
-24  Ubiq             $62,144,519     $1.63     38,079,916_UBQ       $463,877       4.86%          
-42  Expanse          $18,469,184     $2.34     7,906,397_EXP        $274,710       2.66%          
-64  Musicoin         $8,547,463      $0.024196 353,266,642_MUSIC    $174,187       6.80%          
+1   Bitcoin          $67,550,166,500 $4071.78  16,589,837_BTC       $1,296,110,000 3.04%          
+2   Ethereum         $27,908,080,897 $294.26   94,842,861_ETH       $373,715,000   0.95%          
+3   Bitcoin_Cash     $7,477,715,405  $449.88   16,621,763_BCH       $156,106,000   -0.45%         
+7   Ethereum_Classic $1,134,102,602  $11.82    95,915,308_ETC       $102,054,000   5.07%          
+9   Zcash            $629,048,366    $276.58   2,274,381_ZEC        $106,365,000   19.86%         
+16  DigiByte         $131,185,384    $0.015006 8,742,253,657_DGB    $3,462,540     4.78%          
+24  Ubiq             $62,135,824     $1.63     38,080,188_UBQ       $459,341       4.92%          
+42  Expanse          $18,395,971     $2.33     7,906,397_EXP        $274,365       2.29%          
+64  Musicoin         $8,501,825      $0.024065 353,287,366_MUSIC    $174,828       6.37%          
 ----------------------------------------------------------------------------------------------------------
-									AVERAGE % CHANGE   7.20%
+									AVERAGE % CHANGE   6.53%
 -----------------------------------------------------------------------------------------------------
 ----------------------------  CURRENT MARKETS  ------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
@@ -43,38 +44,38 @@ Name(Tag)            Block Time    Difficulty     Est. Rewards                  
 Algorithm            Block Reward  NetHash        Est. Rewards 24h Exchange Rate Volume          Rev. 24h Profit Current | 24h
                      Last Block                                                                                  3 days | 7 days
 
-[Music]              BT: 16s       14,815,711M    586.0061         0.00000588    $8,487,264      0.00345  $14.08 101% | 101%
-Musicoin(MUSIC)      BR: 309.30    925.98 Gh/s    589.9278         (Bittrex)     41.33 BTC       0.00347  $8.53  107% | 105%
+[Music]              BT: 16s       14,729,041M    589.4531         0.00000589    $8,476,186      0.00347  $14.14 102% | 101%
+Musicoin(MUSIC)      BR: 309.30    920.57 Gh/s    589.2882         (Bittrex)     41.00 BTC       0.00347  $8.60  107% | 105%
 
-[Etc3]               BT: 14.06s    119,465,490M   1.1399           0.00296104    $1,160,427,370  0.00338  $13.79 99% | 101%
-EthereumClassic(ETC) BR: 4.85      8.50 Th/s      1.1692           (Bittrex)     1,057.14 BTC    0.00346  $8.25  106% | 103%
+[Etc3]               BT: 14.11s    119,076,991M   1.1437           0.00297000    $1,160,383,204  0.00340  $13.84 100% | 101%
+EthereumClassic(ETC) BR: 4.85      8.44 Th/s      1.1663           (Bittrex)     1,031.77 BTC    0.00346  $8.29  106% | 103%
 
-[Eth]                BT: 29.78s    2,909,498,383M 0.0468           0.07250002    $28,095,014,790 0.00339  $13.87 100% | 100%
-Ethereum(ETH)        BR: 4.85      97.69 Th/s     0.0471           (Bittrex)     2,708.29 BTC    0.00342  $8.32  100% | 100%
+[Eth]                BT: 29.73s    2,910,662,071M 0.0468           0.07250001    $28,009,139,838 0.00339  $13.82 100% | 100%
+Ethereum(ETH)        BR: 4.85      97.92 Th/s     0.0471           (Bittrex)     2,774.11 BTC    0.00342  $8.27  100% | 100%
 
-[Exp2]               BT: 1m 25s    37,158,799M    6.0409           0.00056972    $18,404,661     0.00344  $14.06 101% | 100%
-Expanse(EXP)         BR: 8.00      437.16 Gh/s    5.9955           (Bittrex)     46.31 BTC       0.00342  $8.52  101% | 94%
+[Exp2]               BT: 1m 24s    37,158,799M    6.0410           0.00056844    $18,307,132     0.00343  $13.99 101% | 99%
+Expanse(EXP)         BR: 8.00      442.37 Gh/s    5.9919           (Bittrex)     46.62 BTC       0.00341  $8.44  100% | 94%
 
-[Ubq]                BT: 1m 27s    27,440,060M    8.1781           0.00039562    $61,554,804     0.00324  $13.22 95% | 91%
-Ubiq(UBQ)            BR: 8.00      315.40 Gh/s    7.8717           (Bittrex)     113.36 BTC      0.00311  $7.68  92% | 89%
+[Ubq]                BT: 1m 27s    28,867,066M    7.7743           0.00039600    $61,425,872     0.00308  $12.54 90% | 92%
+Ubiq(UBQ)            BR: 8.00      331.81 Gh/s    7.9537           (Bittrex)     111.89 BTC      0.00315  $7.00  92% | 89%
 
-[Digibytelogo]       BT: 1m 15s    22,073.586     256.7639         0.00000368    $131,449,505    0.00094  $3.86  28% | 51%
-DGB-Groestl(DGB)     BR: 852.05    1.26 Th/s      472.9526         (Bittrex)     504.40 BTC      0.00174  $1.83  51% | 46%
+[Digibytelogo]       BT: 1m 15s    13,929.110     406.8338         0.00000368    $131,047,361    0.00150  $6.10  44% | 51%
+DGB-Groestl(DGB)     BR: 852.05    797.67 Gh/s    473.1925         (Bittrex)     513.63 BTC      0.00174  $4.07  51% | 46%
 
-[Zec]                BT: 2m 29s    5,683,038.477  0.0267           0.06844027    $635,997,712    0.00183  $7.47  54% | 49%
-Zcash(ZEC)           BR: 10.00     312.45 Mh/s    0.0247           (Bittrex)     5,246.61 BTC    0.00169  $5.26  51% | 52%
-Myriad-Groestl(XMY)  BR: 250.00    74.04 Gh/s     1,970.9758       (Bittrex)     7.96 BTC        0.00122  $0.86  39% | 27%
+[Zec]                BT: 2m 30s    6,443,841.954  0.0236           0.06770000    $627,221,488    0.00160  $6.50  47% | 49%
+Zcash(ZEC)           BR: 10.00     351.92 Mh/s    0.0247           (Bittrex)     5,294.27 BTC    0.00167  $4.28  50% | 51%
+Myriad-Groestl(XMY)  BR: 250.00    72.47 Gh/s     1,935.9480       (Bittrex)     8.12 BTC        0.00120  $0.92  39% | 27%
 
-Last update at 2017-09-27 12:33:11 UTC
-           NOW 2017-09-27 12:52:40 UTC
+Last update at 2017-09-27 13:09:39 UTC
+           NOW 2017-09-27 13:12:32 UTC
 -----------------------------------------------------------------------------------------------------
 --------------------------------  VALUES  -----------------------------------------------------------
 COIN		UNPAID	PAID	~UN$	~$	~$/coin
 ---------------------------------------------------------
-DIGIBYTE	954.71	49424.4	14.42	746.97	0.0151134
-ETHEREUM	.16083	10.2242	47.30	3007.21	294.127
+DIGIBYTE	962.22	49424.4	14.54	746.97	0.0151134
+ETHEREUM	.16155	10.2242	47.51	3007.21	294.127
 EXPANSE		.4092	20.761	.96	48.88	2.35444
-MUSICOIN	0.0239768				
+MUSICOIN	4.24	5115.5	.10	122.65	0.0239768
 UBIQ		1.63582				
 ---------------------------------------------------------
 			~TOT		
@@ -85,52 +86,52 @@ UBIQ		1.63582
 ------------------------------------------------------------------------
 
 GPU #0: Ellesmere, 8192 MB available, 36 compute units
-ETH - Total Speed: 26.760 Mh/s, Total Shares: 16438, Rejected: 17, Time: 348:48
-ETH: GPU0 26.760 Mh/s
+ETH - Total Speed: 26.808 Mh/s, Total Shares: 16452, Rejected: 17, Time: 349:08
+ETH: GPU0 26.808 Mh/s
 Incorrect ETH shares: GPU0 1
- 1 minute average ETH total speed: 26.760 Mh/s
+ 1 minute average ETH total speed: 25.732 Mh/s
 Pool switches: ETH - 0, DCR - 0
 Current ETH share target: 0x0000000225c17d04 (diff: 2000MH), epoch 37(1.29GB)
-GPU0 t=64C fan=94%
+GPU0 t=63C fan=95%
 
 ------------------------------------------------------------------------
 ----------------------------  MONOLITH  --------------------------------
 ------------------------------------------------------------------------
 GPU #3: GeForce GTX 1060 3GB, 3072 MB available, 9 compute units, capability: 6.1
 GPU #4: GeForce GTX 1060 3GB, 3072 MB available, 9 compute units, capability: 6.1
-ETH - Total Speed: 97.823 Mh/s, Total Shares: 1393(319+251+308+293+240), Rejected: 1, Time: 16:00
-ETH: GPU0 22.528 Mh/s, GPU1 18.824 Mh/s, GPU2 18.838 Mh/s, GPU3 18.807 Mh/s, GPU4 18.826 Mh/s
+ETH - Total Speed: 98.018 Mh/s, Total Shares: 1422(329+255+312+295+250), Rejected: 2, Time: 16:20
+ETH: GPU0 22.593 Mh/s, GPU1 18.800 Mh/s, GPU2 18.887 Mh/s, GPU3 18.877 Mh/s, GPU4 18.862 Mh/s
 Incorrect ETH shares: none
- 1 minute average ETH total speed: 97.832 Mh/s
+ 1 minute average ETH total speed: 97.838 Mh/s
 Pool switches: ETH - 0, DCR - 0
 Current ETH share target: 0x0000000112e0be82 (diff: 4000MH), epoch 143(2.12GB)
-GPU0 t=57C fan=100%, GPU1 t=53C fan=100%, GPU2 t=54C fan=100%, GPU3 t=62C fan=100%, GPU4 t=58C fan=100%
+GPU0 t=58C fan=100%, GPU1 t=54C fan=100%, GPU2 t=55C fan=100%, GPU3 t=63C fan=100%, GPU4 t=59C fan=100%
 
 ------------------------------------------------------------------------
 ----------------------------  AIRWIND1  --------------------------------
 ------------------------------------------------------------------------
 GPU #2: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1
 GPU #3: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1
-ETH - Total Speed: 129.946 Mh/s, Total Shares: 1272(314+290+348+334), Rejected: 1, Time: 10:45
-ETH: GPU0 33.010 Mh/s, GPU1 31.804 Mh/s, GPU2 32.557 Mh/s, GPU3 32.575 Mh/s
+ETH - Total Speed: 129.884 Mh/s, Total Shares: 1314(324+306+356+342), Rejected: 1, Time: 11:05
+ETH: GPU0 32.982 Mh/s, GPU1 31.802 Mh/s, GPU2 32.550 Mh/s, GPU3 32.550 Mh/s
 Incorrect ETH shares: none
- 1 minute average ETH total speed: 129.184 Mh/s
+ 1 minute average ETH total speed: 129.585 Mh/s
 Pool switches: ETH - 0, DCR - 0
 Current ETH share target: 0x0000000112e0be82 (diff: 4000MH), epoch 143(2.12GB)
-GPU0 t=52C fan=100%, GPU1 t=48C fan=81%, GPU2 t=49C fan=81%, GPU3 t=45C fan=81%
+GPU0 t=54C fan=100%, GPU1 t=49C fan=81%, GPU2 t=49C fan=100%, GPU3 t=46C fan=81%
 
 ------------------------------------------------------------------------
 ------------------------------  AIR2  ----------------------------------
 ------------------------------------------------------------------------
 GPU #2: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1
 GPU #3: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1
-ETH - Total Speed: 128.174 Mh/s, Total Shares: 53573(13615+13836+13259+13432), Rejected: 48, Time: 470:50
-ETH: GPU0 31.903 Mh/s, GPU1 32.558 Mh/s, GPU2 31.954 Mh/s, GPU3 31.759 Mh/s
+ETH - Total Speed: 128.180 Mh/s, Total Shares: 53603(13623+13844+13268+13437), Rejected: 48, Time: 471:10
+ETH: GPU0 31.939 Mh/s, GPU1 32.554 Mh/s, GPU2 31.917 Mh/s, GPU3 31.770 Mh/s
 Incorrect ETH shares: none
- 1 minute average ETH total speed: 128.145 Mh/s
+ 1 minute average ETH total speed: 128.140 Mh/s
 Pool switches: ETH - 106, DCR - 0
 Current ETH share target: 0x0000000112e0be82 (diff: 4000MH), epoch 143(2.12GB)
-GPU0 t=42C fan=60%, GPU1 t=38C fan=60%, GPU2 t=53C fan=60%, GPU3 t=26C fan=60%
+GPU0 t=42C fan=60%, GPU1 t=38C fan=60%, GPU2 t=54C fan=60%, GPU3 t=26C fan=60%
 
 ------------------------------------------------------------------------
 ```
