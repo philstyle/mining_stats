@@ -12,10 +12,10 @@ COIN	HOST		HR1		HR2		AUX1	AUX2
 ------------------------------------------------------------------------------------------
 HOST		MINING		MH/s	INCORRECT	RUNTIME	S/M	S/M/MH/s	SHARES
 ------------------------------------------------------------------------------------------
-AIRBUNTU			0.000	none		12:25	1.9167	1428(351+361+390+331)		
-AIRWIND2	ethermine	0.000	none		351:44	1.7185	36269(9179+9398+9107+8935)		
-BATHROOM	dwarfpool	0.000	none		1028:25	.7438	45900		
-MONOLITH	ethermine	0.000	none		04:52	1.4006	409(80+100+66+71+92)		
+AIRBUNTU			0.000	none		12:45	1.8666	1428(351+361+390+331)		
+AIRWIND2			0.000	none		352:04	1.7169	36269(9179+9398+9107+8935)		
+BATHROOM			0.000	none		1028:45	.7436	45900		
+MONOLITH			0.000	none		05:12	1.3108	409(80+100+66+71+92)		
 -----------------------------------------------------------------------------------------------------
 ----------------------------  COINMARKETCAP  --------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
@@ -26,17 +26,17 @@ MONOLITH	ethermine	0.000	none		04:52	1.4006	409(80+100+66+71+92)
 -----------------------------------------------------------------------------------------------------
 
 
-           NOW 2018-04-02 08:14:10 UTC
+           NOW 2018-04-02 08:34:11 UTC
 -----------------------------------------------------------------------------------------------------
 --------------------------------  VALUES  -----------------------------------------------------------
 COIN		UNPAID	PAID	 ~$/coin   ~UN$	       ~$
 ---------------------------------------------------------
-DIGIBYTE	.017		               	         
-ETHEREUM	385.203		               	         
-EXPANSE		1.328		               	         
-MUSICOIN	.010		               	         
-UBIQ		1.316		               	         
-ZCASH		193.852		               	         
+DIGIBYTE			               	         
+ETHEREUM			               	         
+EXPANSE				               	         
+MUSICOIN			               	         
+UBIQ				               	         
+ZCASH				               	         
 ---------------------------------------------------------
 				    ~TOT       	         
 -----------------------------------------------------------------------------------------------------
@@ -47,25 +47,25 @@ ZCASH		193.852
 DevFee: ETH: Stratum - Failed to connect, retry in 20 sec...
 
 GPU #0: Ellesmere, 8192 MB available, 36 compute units
-ETH - Total Speed: 0.000 Mh/s, Total Shares: 45900, Rejected: 0, Time: 1028:25
+ETH - Total Speed: 0.000 Mh/s, Total Shares: 45900, Rejected: 0, Time: 1028:45
 ETH: GPU0 0.000 Mh/s
 Incorrect ETH shares: none
  1 minute average ETH total speed: 0.000 Mh/s
-Pool switches: ETH - 13, DCR - 0
-GPU0 t=51C fan=0%
+Pool switches: ETH - 26, DCR - 0
+GPU0 t=48C fan=0%
 
 ------------------------------------------------------------------------
 ----------------------------  MONOLITH  --------------------------------
 ------------------------------------------------------------------------
 GPU #3: GeForce GTX 1060 3GB, 3072 MB available, 9 compute units, capability: 6.1 (pci bus 4:0:0)
 GPU #4: GeForce GTX 1060 3GB, 3072 MB available, 9 compute units, capability: 6.1 (pci bus 5:0:0)
-ETH - Total Speed: 0.000 Mh/s, Total Shares: 409(80+100+66+71+92), Rejected: 0(0+0+0+0+0), Time: 04:52
+ETH - Total Speed: 0.000 Mh/s, Total Shares: 409(80+100+66+71+92), Rejected: 0(0+0+0+0+0), Time: 05:12
 ETH: GPU0 0.000 Mh/s, GPU1 0.000 Mh/s, GPU2 0.000 Mh/s, GPU3 0.000 Mh/s, GPU4 0.000 Mh/s
 Incorrect ETH shares: none
  1 minute average ETH total speed: 0.000 Mh/s
-Pool switches: ETH - 6
+Pool switches: ETH - 19
 Current -dcri values: -dcri 30,30,30,30,30
-GPU0 t=24C fan=76%, GPU1 t=22C fan=43%, GPU2 t=20C fan=43%, GPU3 t=26C fan=76%, GPU4 t=21C fan=43%
+GPU0 t=23C fan=43%, GPU1 t=22C fan=43%, GPU2 t=19C fan=43%, GPU3 t=25C fan=76%, GPU4 t=20C fan=43%
 
 ------------------------------------------------------------------------
 ----------------------------  AIRWIND1  --------------------------------
@@ -73,24 +73,24 @@ GPU0 t=24C fan=76%, GPU1 t=22C fan=43%, GPU2 t=20C fan=43%, GPU3 t=26C fan=76%, 
 GPU #1: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1
 GPU #2: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1
 GPU #3: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1
-ETH - Total Speed: 0.000 Mh/s, Total Shares: 1428(351+361+390+331), Rejected: 0, Time: 12:25
+ETH - Total Speed: 0.000 Mh/s, Total Shares: 1428(351+361+390+331), Rejected: 0, Time: 12:45
 ETH: GPU0 0.000 Mh/s, GPU1 0.000 Mh/s, GPU2 0.000 Mh/s, GPU3 0.000 Mh/s
 Incorrect ETH shares: none
  1 minute average ETH total speed: 0.000 Mh/s
-Pool switches: ETH - 7, DCR - 0
-GPU0 t=24C fan=40%, GPU1 t=21C fan=40%, GPU2 t=21C fan=40%, GPU3 t=21C fan=40%
+Pool switches: ETH - 20, DCR - 0
+GPU0 t=24C fan=40%, GPU1 t=21C fan=40%, GPU2 t=20C fan=40%, GPU3 t=20C fan=40%
 
 ------------------------------------------------------------------------
 ------------------------------  AIR2  ----------------------------------
 ------------------------------------------------------------------------
+GPU #1: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1
 GPU #2: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1
 GPU #3: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1
-ETH - Total Speed: 0.000 Mh/s, Total Shares: 36269(9179+9398+9107+8935), Rejected: 2, Time: 351:44
+ETH - Total Speed: 0.000 Mh/s, Total Shares: 36269(9179+9398+9107+8935), Rejected: 2, Time: 352:04
 ETH: GPU0 0.000 Mh/s, GPU1 0.000 Mh/s, GPU2 0.000 Mh/s, GPU3 0.000 Mh/s
 Incorrect ETH shares: none
-GPU0 t=27C fan=0%, GPU1 t=26C fan=0%, GPU2 t=25C fan=0%, GPU3 t=20C fan=33%
  1 minute average ETH total speed: 0.000 Mh/s
-Pool switches: ETH - 8, DCR - 0
+Pool switches: ETH - 21, DCR - 0
 GPU0 t=27C fan=0%, GPU1 t=26C fan=0%, GPU2 t=25C fan=0%, GPU3 t=20C fan=33%
 
 ------------------------------------------------------------------------
